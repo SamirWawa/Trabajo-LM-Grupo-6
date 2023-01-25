@@ -27,7 +27,6 @@ div{
 }
 .rectangulo{
     border-radius: 10px;
-    height: 25px;
 }
 .rectangulo:hover{
     transform: scale(1,1.5);

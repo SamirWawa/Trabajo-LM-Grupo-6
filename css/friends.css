@@ -1,0 +1,89 @@
+.contenedor {
+    gap: 3rem;
+    height: 80vh;
+}
+
+.busqueda {
+    display: flex;
+    gap: 1rem;
+}
+
+.busqueda input {
+    padding: 0.75rem;
+    border-radius: 0.5rem;
+    border: 1px solid lightgray;
+    font-size: 1rem;
+    background: none;
+    background-color: white;
+}
+
+.busqueda input:focus {
+    outline: 1px solid #004E98;
+}
+
+.busqueda button {
+    background-color: #004E98;
+    border-radius: 0.5rem;
+    border: none;
+    transition: all .2s ease-in;
+    color: white;
+    padding: 0.75rem 2rem;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.busqueda button:hover {
+    background-color: #5AA9E6;
+}
+
+.lista {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+    width: 50vw;
+}
+
+.lista .card {
+    background-color: white;
+    border-radius: 0.5rem;
+    border: 1px solid lightgray;
+    cursor: pointer;
+    box-shadow: -1px -1px 20px -1px rgb(211, 209, 209);
+}
+
+.lista .card div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0.75rem;
+}
+
+.lista .card img {
+    width: 8rem;
+    border-radius: 0.5rem 0.5rem 0 0;
+}
+
+.lista .card:hover {
+    background-color: #e8f3fc;
+}
+
+.light {
+    font-weight: 300;
+}
+
+@media (max-width: 1400px) {
+    .lista {
+        width: 90vw;
+    }
+    .contenedor {
+        height: 100vh;
+    }
+}
+
+@media (max-width: 700px) {
+    .contenedor {
+        height: 140vh;
+    }
+}

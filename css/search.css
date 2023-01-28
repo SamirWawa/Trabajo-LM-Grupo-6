@@ -1,0 +1,97 @@
+.contenedor {
+    height: auto;
+    padding: 4rem 0;
+}
+
+.busqueda {
+    display: flex;
+    gap: 1rem;
+}
+
+.busqueda input {
+    padding: 0.75rem;
+    border-radius: 0.5rem;
+    border: 1px solid lightgray;
+    font-size: 1rem;
+    background: none;
+    background-color: white;
+}
+
+.busqueda input:focus {
+    outline: 1px solid #004E98;
+}
+
+.busqueda button {
+    background-color: #004E98;
+    border-radius: 0.5rem;
+    border: none;
+    transition: all .2s ease-in;
+    color: white;
+    padding: 0.75rem 2rem;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.busqueda button:hover {
+    background-color: #5AA9E6;
+}
+
+.filtros {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.filtros div {
+    padding: 0.5rem 0.75rem;
+    border: 1px solid lightgray;
+    border-radius: 0.5rem;
+    font-size: 0.90rem;
+    cursor: pointer;
+    background-color: white;
+}
+
+.filtros div:hover {
+    border: 1px solid #004E98;
+    color: #004E98;
+}
+
+.contenedor h2 {
+    margin: 2rem 0;
+}
+
+.trabajos .card {
+    width: 20rem;
+    background-color: white;
+    border-radius: 0.5rem;
+    border: 1px solid lightgray;
+    cursor: pointer;
+    box-shadow: -1px -1px 20px -1px rgb(211, 209, 209);
+}
+
+.trabajos {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.trabajos .card div {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding: 1rem;
+}
+
+.trabajos div img {
+    width: 20rem;
+    border-radius: 0.5rem 0.5rem 0 0;
+}
+
+.light {
+    font-weight: 300;
+}
+
+.trabajos .card:hover {
+    background-color: #e8f3fc;
+}

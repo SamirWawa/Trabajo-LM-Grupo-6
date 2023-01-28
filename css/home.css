@@ -1,0 +1,116 @@
+.contenedor div:nth-child(3) {
+    margin-top: 0.5rem;
+}
+
+.eslogan,
+.descripcion {
+    text-align: center;
+}
+
+.eslogan {
+    padding: 0 20rem;
+}
+
+.descripcion {
+    padding: 0 30rem;
+}
+
+.eslogan h1 {
+    font-size: 6rem;
+    line-height: 6rem;
+}
+
+.descripcion span {
+    font-size: 1.25rem;
+}
+
+.contenedor {
+    height: 85vh;
+}
+
+.contenedor button {
+    background-color: #004E98;
+    border-radius: 25px;
+    border: none;
+    transition: all .2s ease-in;
+    color: white;
+    padding: 0.75rem 2rem;
+    font-size: 1.25rem;
+    cursor: pointer;
+}
+
+.contenedor button:hover {
+    background-color: #5AA9E6;
+}
+
+.ofertas {
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+}
+
+.contenedor h2 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.oferta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    width: 10rem;
+    height: 10rem;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    cursor: pointer;
+}
+
+.oferta:hover {
+    background-color: #f1f9ff;
+}
+
+.oferta:hover>img {
+    transition: all .2s ease-in;
+    width: 10rem;
+}
+
+.oferta img {
+    width: 8rem;
+}
+
+hr {
+    border-top: 1px solid lightgray;
+    background: none;
+}
+
+.fondo {
+    background-image: url("../src/fondo.png");
+}
+
+@media (max-width: 1200px) {
+
+    .eslogan {
+        padding: 0 5rem;
+    }
+
+    .eslogan h1 {
+        font-size: 4rem;
+        line-height: normal;
+    }
+
+    .descripcion {
+        padding: 0 10rem;
+    }
+
+    .oferta {
+        width: 6rem;
+        height: 6rem;
+    }
+
+    .oferta img {
+        width: 6rem;
+    }
+}

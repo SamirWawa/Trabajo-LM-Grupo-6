@@ -1,0 +1,136 @@
+section {
+  display: flex;
+  flex-direction: column;
+  margin-left: 5rem;
+  margin-top: 7vh;
+  gap: 3vh;
+}
+
+.contenedor2 button {
+  background-color: #b34040;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  box-shadow: -1px -1px 20px -1px rgb(211, 209, 209);
+}
+
+.contenedor2 button:hover{
+  cursor: pointer;
+  background-color: #ff0000;
+  transition: all .2s ease-in;
+}
+
+.contenedor2 .button:hover{
+  cursor: pointer;
+  background-color: #00ff08;
+  transition: all .2s ease-in;
+}
+
+.contenedor2 button, .contenedor2 .button{
+  border-radius: 10px;
+}
+
+aside h2{
+  margin-left: 3rem;
+}
+
+.contenedor2 .button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 5.5rem;
+  box-shadow: -1px -1px 20px -1px rgb(211, 209, 209);
+}
+
+header nav a:hover {
+  background: #f56f3a;
+  border-radius: 50px;
+}
+
+.notification {
+  background-color: #f1f1f1;
+  border-radius: 10px;
+  padding: 10px;
+  transition: all 0.5s ease;
+  max-width: 500px;
+  box-shadow: -1px -1px 20px -1px rgb(211, 209, 209);
+
+}
+
+.notification:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.megusta {
+  background-color: #b34040;
+  border-radius: 10px;
+  padding: 10px;
+  transition: all 0.5s ease;
+  max-width: 500px;
+  color: aliceblue;
+  box-shadow: -1px -1px 20px -1px rgb(211, 209, 209);
+}
+
+.megusta:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.Solicitudes {
+  background-color: #45d37b;
+  border-radius: 10px;
+  padding: 10px;
+  transition: all 0.5s ease;
+  max-width: 500px;
+  box-shadow: -1px -1px 20px -1px rgb(211, 209, 209);
+
+}
+
+.Solicitudes:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.logo {
+  margin-right: 10px;
+}
+
+aside {
+  float: right;
+  margin-right: 7rem;
+  gap: 5vh;
+  margin-top: 5vh;
+}
+
+.contenedor2 {
+  height: 70vh;
+  gap: 1.25rem;
+}
+
+.ofertas>div {
+  background-color: #f1f1f1;
+  border-radius: 10px;
+  padding: 10px;
+  transition: all 0.5s ease;
+  max-width: 500px;
+  width: 20rem;
+  box-shadow: -1px -1px 20px -1px rgb(211, 209, 209);
+}
+
+.ofertas{
+  gap: 5vh;
+}
+
+section h2{
+  margin-left: 12rem;
+}

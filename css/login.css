@@ -14,7 +14,7 @@ h1 {
     font-size: 3rem;
 }
 
-form {
+form { /*Realmente no tienes una etiqueta form*/
     border: 3px solid #5AA9E6;
     width: 400px;
 }
@@ -43,7 +43,7 @@ button:hover{
     background-color: #01325f;
 }
 
-.contenedorForm {
+.contenedorForm { /*Agrupa las propiedades por temática, mucho más claro después*/
     display: flex;
     flex-direction: column;
     padding: 2.5rem;

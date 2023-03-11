@@ -1,1 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<nuevousuario>
+    <nombreyapellidos>Pedor El Chulo</nombreyapellidos>
+    <nombreusuario>Pedroelchulo</nombreusuario>
+    <correo>Pedroelchulo@gmail.com</correo>
+    <contraseña>Soyelmaschulo</contraseña>
+    <confirmarcontraseña>Soyelmaschulo</confirmarcontraseña>
+</nuevousuario>
+<nuevousuario>
+    <nombreyapellidos>Juan Diablo</nombreyapellidos>
+    <nombreusuario>juandiablo</nombreusuario>
+    <correo>juandiablo@gmail.com</correo>
+    <contraseña>diablomami</contraseña>
+    <confirmarcontraseña>diablomami</confirmarcontraseña>
+</nuevousuario>
+<nuevousuario>
+    <nombreyapellidos>Maria Hola</nombreyapellidos>
+    <nombreusuario>mariahola</nombreusuario>
+    <correo>mariahola@gmail.com</correo>
+    <contraseña>adios.</contraseña>
+    <confirmarcontraseña>adios.</confirmarcontraseña>
+</nuevousuario>
+<nuevousuario>
+    <nombreyapellidos>jorge Como</nombreyapellidos>
+    <nombreusuario>jorgecomo</nombreusuario>
+    <correo>jorgecomo@gmail.com</correo>
+    <contraseña>como??</contraseña>
+    <confirmarcontraseña>como??</confirmarcontraseña>
+</nuevousuario>
+<nuevousuario>
+    <nombreyapellidos>Ana Estas</nombreyapellidos>
+    <nombreusuario>anaestas</nombreusuario>
+    <correo>anaestas@gmail.com</correo>
+    <contraseña>presente</contraseña>
+    <confirmarcontraseña>presente</confirmarcontraseña>
+</nuevousuario>
+<nuevousuario>
+    <nombreyapellidos>Diego Siempre</nombreyapellidos>
+    <nombreusuario>diegosiempre</nombreusuario>
+    <correo>diegosiempre@gmail.com</correo>
+    <contraseña>negro</contraseña>
+    <confirmarcontraseña>negro</confirmarcontraseña>
+</nuevousuario>
+<nuevousuario>
+    <nombreyapellidos>Sofia Mola</nombreyapellidos>
+    <nombreusuario>sofiamola</nombreusuario>
+    <correo>sofiamola@gmail.com</correo>
+    <contraseña>soyManuel</contraseña>
+    <confirmarcontraseña>soyManuel</confirmarcontraseña>
+</nuevousuario>
+<nuevousuario>
+    <nombreyapellidos>jorge Jaja</nombreyapellidos>
+    <nombreusuario>jorgejaja</nombreusuario>
+    <correo>jorgejaja@gmail.com</correo>
+    <contraseña>soyunbot</contraseña>
+    <confirmarcontraseña>soyunbot</confirmarcontraseña>
+</nuevousuario>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publicaciones>
+    <publicacion>
+        <id>1</id>
+        <titulo>Desarrollador de software</titulo>
+        <descripcion>Se busca desarrollador de software para trabajar en una empresa líder en el
+            sector tecnológico. Requerimientos: conocimientos en lenguajes de programación como
+            Java, Python y JavaScript.</descripcion>
+        <ubicacion>Madrid</ubicacion>
+        <salario>3500€ mensuales</salario>
+    </publicacion>
+    <publicacion>
+        <id>2</id>
+        <titulo>Ingeniero de sistemas</titulo>
+        <descripcion>Empresa de telecomunicaciones busca ingeniero de sistemas para trabajar en
+            proyectos de infraestructura. Requerimientos: experiencia en diseño y configuración de
+            redes.</descripcion>
+        <ubicacion>Barcelona</ubicacion>
+        <salario>4000€ mensuales</salario>
+    </publicacion>
+    <publicacion>
+        <id>3</id>
+        <titulo>Gerente de ventas</titulo>
+        <descripcion>Empresa de productos de belleza busca gerente de ventas para dirigir el equipo
+            de ventas. Requerimientos: experiencia en ventas, liderazgo y habilidades de
+            comunicación.</descripcion>
+        <ubicacion>Valencia</ubicacion>
+        <salario>5000€ mensuales</salario>
+    </publicacion>
+</publicaciones>

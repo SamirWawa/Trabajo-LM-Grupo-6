@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<home>
+    <botones>
+        <boton>
+            <nombre>Entrar</nombre>
+            <destino>./login.html</destino>
+        </boton>
+        <boton>
+            <nombre>Registrarse</nombre>
+            <destino>./register.html</destino>
+        </boton>
+    </botones>
+
+    <ofertas>
+        <oferta>
+            <rutaImagen>../src/google.png</rutaImagen>
+            <compania>Google</compania>
+        </oferta>
+        <oferta>
+            <rutaImagen>../src/amazon.png</rutaImagen>
+            <compania>Amazon</compania>
+        </oferta>
+        <oferta>
+            <rutaImagen>../src/netflix.png</rutaImagen>
+            <compania>Netflix</compania>
+        </oferta>
+        <oferta>
+            <rutaImagen>../src/linkedin.png</rutaImagen>
+            <compania>Linkedin</compania>
+        </oferta>
+        <oferta>
+            <rutaImagen>../src/facebook.png</rutaImagen>
+            <compania>Facebook</compania>
+        </oferta>
+        <oferta>
+            <rutaImagen>../src/hbo.png</rutaImagen>
+            <compania>HBO</compania>
+        </oferta>
+        <oferta>
+            <rutaImagen>../src/tesla.png</rutaImagen>
+            <compania>Tesla</compania>
+        </oferta>
+        <oferta>
+            <rutaImagen>../src/elpozo.png</rutaImagen>
+            <compania>El pozo</compania>
+        </oferta>
+    </ofertas>
+</home>

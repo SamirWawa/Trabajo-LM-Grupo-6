@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<notificaciones>
+    <notificacion>
+    A Mariano le ha gustado tu publicacion
+    </notificacion
+    <notificacion>
+    Laura ha aceptado tu solicitud de seguimiento
+    </notificacion>
+    <notificacion>
+    Marco ha aceptado tu solicitud de seguimiento
+    </notificacion>
+    <notificacion>
+    Mario ha aceptado tu solicitud de seguimiento
+    </notificacion>
+    <notificacion>
+    Noelia ha aceptado tu solicitud de seguimiento
+    </notificacion>
+    <notificacion>
+    Sergio ha aceptado tu solicitud de seguimiento
+    </notificacion>
+    <solicitudes>
+        <botones>
+            <aceptar>Aceptar</aceptar>
+            <denegar>Denegar</denegar>
+        </botones>
+        <ofertas>
+            <oferta>
+            <establecimiento> 
+            La Palmera
+            </establecimiento>
+            <puesto>
+            Camarero
+            </puesto>
+            <ubicacion>
+            Alicante
+            </ubicacion>
+            </oferta>
+            <oferta>
+            <establecimiento>
+            ZARA
+            </establecimiento>
+            <puesto>
+            Dependiente
+            </puesto>
+            <ubicacion>
+            Elche, El Aljub
+            </ubicacion>
+            </oferta>
+        </ofertas>
+    </solicitudes>
+</notificaciones>

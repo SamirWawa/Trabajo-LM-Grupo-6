@@ -1,30 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <publicaciones>
     <publicacion>
-        <id>1</id>
-        <titulo>Desarrollador de software</titulo>
-        <descripcion>Se busca desarrollador de software para trabajar en una empresa líder en el
-            sector tecnológico. Requerimientos: conocimientos en lenguajes de programación como
-            Java, Python y JavaScript.</descripcion>
-        <ubicacion>Madrid</ubicacion>
-        <salario>3500€ mensuales</salario>
+        <titulo>Contable</titulo>
+        <descripcion>Profesional encargado de llevar los registros financieros.</descripcion>
+        <ubicacion>Barcelona, España</ubicacion>
+        <imagen>../src/contable.jpg</imagen>
     </publicacion>
     <publicacion>
-        <id>2</id>
-        <titulo>Ingeniero de sistemas</titulo>
-        <descripcion>Empresa de telecomunicaciones busca ingeniero de sistemas para trabajar en
-            proyectos de infraestructura. Requerimientos: experiencia en diseño y configuración de
-            redes.</descripcion>
-        <ubicacion>Barcelona</ubicacion>
-        <salario>4000€ mensuales</salario>
+        <titulo>Programador</titulo>
+        <descripcion>Desarrollador de software y sistemas informáticos.</descripcion>
+        <ubicacion>Alicante, España</ubicacion>
+        <imagen>../src/programador.jpg</imagen>
     </publicacion>
     <publicacion>
-        <id>3</id>
-        <titulo>Gerente de ventas</titulo>
-        <descripcion>Empresa de productos de belleza busca gerente de ventas para dirigir el equipo
-            de ventas. Requerimientos: experiencia en ventas, liderazgo y habilidades de
-            comunicación.</descripcion>
-        <ubicacion>Valencia</ubicacion>
-        <salario>5000€ mensuales</salario>
+        <titulo>Albañil</titulo>
+        <descripcion>Trabajador especializado en la construcción y reparación de edificios.</descripcion>
+        <ubicacion>Madrid, España</ubicacion>
+        <imagen>../src/albañil.jpg</imagen>
+    </publicacion>
+    <publicacion>
+        <titulo>Escritor</titulo>
+        <descripcion>Autor de libros, artículos y otros contenidos escritos.</descripcion>
+        <ubicacion>Londres, Inglaterra</ubicacion>
+        <imagen>../src/escritor.jpg</imagen>
+    </publicacion>
+    <publicacion>
+        <titulo>Gerente</titulo>
+        <descripcion>Encargado de dirigir y administrar una empresa o equipo de trabajo.</descripcion>
+        <ubicacion>Venecia, Italia</ubicacion>
+        <imagen>../src/gerente.jpg</imagen>
+    </publicacion>
+    <publicacion>
+        <titulo>Mecánico</titulo>
+        <descripcion>Experto en reparación y mantenimiento de maquinaria y vehículos.</descripcion>
+        <ubicacion>Bilbao, España</ubicacion>
+        <imagen>../src/mecanico.jpg</imagen>
+    </publicacion>
+    <publicacion>
+        <titulo>Profesor</titulo>
+        <descripcion>Educador que enseña en una institución educativa.</descripcion>
+        <ubicacion>Málaga, España</ubicacion>
+        <imagen>../src/profesor.jpg</imagen>
     </publicacion>
 </publicaciones>

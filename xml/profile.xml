@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<profile>
 <perfiles>
     <perfil>
         <nombre>Antonio</nombre>
@@ -90,4 +91,22 @@
             <pais>España</pais>
         </direccion>
     </perfil>
-</perfiles>  
+</perfiles>
+<botones>
+    <boton>
+        <nombre>Editar foto perfil</nombre>
+    </boton>
+    <boton>
+        <nombre>Editar perfil</nombre>
+    </boton>
+    <boton>
+        <nombre>Modificar contraseña</nombre>
+    </boton>
+    <boton>
+        <nombre>Cambiar curriculum</nombre>
+    </boton>
+    <boton>
+        <nombre>Cerrar sesion</nombre>
+    </boton>
+</botones>
+</profile>  

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+    <lista amigos>
+        <amigos>
+            <nombre>Pedro</nombre>
+            <usuario>pedroelchulo</usuario>
+        </amigos>
+
+        <amigos>
+            <nombre>Juan</nombre>
+            <usuario>juandiablo</usuario>
+        </amigos>
+
+        <amigos>
+            <nombre>Maria</nombre>
+            <usuario>mariahola</usuario>
+        </amigos>
+
+        <amigos>
+            <nombre>Sofia</nombre>
+            <usuario>carlosadios</usuario>
+        </amigos>
+
+        <amigos>
+            <nombre>Carlos</nombre>
+            <usuario>sofiaquetal</usuario>
+        </amigos>
+
+        <amigos>
+            <nombre>Jorge</nombre>
+            <usuario>jorgecomo</usuario>
+        </amigos>
+
+        <amigos>
+            <nombre>Ana</nombre>
+            <usuario>anaestas</usuario>
+        </amigos>
+
+        <amigos>
+            <nombre>Diego</nombre>
+            <usuario>diegosiempre</usuario>
+        </amigos>
+
+        <amigos>
+            <nombre>Manuel</nombre>
+            <usuario>sofiamola</usuario>
+        </amigos>
+
+        <amigos>
+            <nombre>Álvaro</nombre>
+            <usuario>jorgejaja</usuario>
+        </amigos>     
+    </lista amigos>

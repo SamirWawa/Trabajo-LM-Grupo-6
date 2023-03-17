@@ -1,112 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <profile>
-<perfiles>
-    <perfil>
-        <nombre>Antonio</nombre>
-        <apellido1>Martinez</apellido1>
-        <apellido2>Fernadez</apellido2>
-        <fechadenacimiento>20/04/1993</fechadenacimiento>
-        <edad>29</edad>
-        <email>Antonio.MF@gmail.com</email>
-        <telefono>687 324 123</telefono>
-        <dni>34542343T</dni>
-        <direccion>
-            <calleynumero>Av. Alfonso el sabio, 20</calleynumero>
-            <direccionadicional>Piso 5ºA</direccionadicional>
-            <codigoPostal>03004</codigoPostal>
-            <ciudad>Alicante</ciudad>
-            <provincia>Alicante</provincia>
-            <pais>España</pais>
-        </direccion>
-    </perfil>
-    <perfil>
-        <nombre>Pedro</nombre>
-        <apellido1>Franco</apellido1>
-        <apellido2>Chulo</apellido2>
-        <fechadenacimiento>21/11/1975</fechadenacimiento>
-        <edad>47</edad>
-        <email>Pedro.FC@gmail.com</email>
-        <telefono>743 234 123</telefono>
-        <dni>31231233Q</dni>
-        <direccion>
-            <calleynumero>Calle Teulada, 14</calleynumero>
-            <direccionadicional>Piso 1ºC</direccionadicional>
-            <codigoPostal>03005</codigoPostal>
-            <ciudad>Alicante</ciudad>
-            <provincia>Alicante</provincia>
-            <pais>España</pais>
-        </direccion>
-    </perfil>
-    <perfil>
-        <nombre>Maria</nombre>
-        <apellido1>Magdalena</apellido1>
-        <apellido2>Rodriguez</apellido2>
-        <fechadenacimiento>01/01/1998</fechadenacimiento>
-        <edad>25</edad>
-        <email>Maria.MR@gmail.com</email>
-        <telefono>631 324 926</telefono>
-        <dni>12335464N</dni>
-        <direccion>
-            <calleynumero>Calle Montesinos, 15</calleynumero>
-            <direccionadicional>Piso 2ºA</direccionadicional>
-            <codigoPostal>03015</codigoPostal>
-            <ciudad>Alicante</ciudad>
-            <provincia>Alicante</provincia>
-            <pais>España</pais>
-        </direccion>
-    </perfil>
-    <perfil>
-        <nombre>Sofia</nombre>
-        <apellido1>Reyes</apellido1>
-        <apellido2>Esteban</apellido2>
-        <fechadenacimiento>05/07/1991</fechadenacimiento>
-        <edad>31</edad>
-        <email>Sofia.RE@gmail.com</email>
-        <telefono>731 524 922</telefono>
-        <dni>54645467C</dni>
-        <direccion>
-            <calleynumero>Av. Novelda, 67</calleynumero>
-            <direccionadicional>Piso 3ºB</direccionadicional>
-            <codigoPostal>03009</codigoPostal>
-            <ciudad>Alicante</ciudad>
-            <provincia>Alicante</provincia>
-            <pais>España</pais>
-        </direccion>
-    </perfil>
-    <perfil>
-        <nombre>Raul</nombre>
-        <apellido1>Soriano</apellido1>
-        <apellido2>Zaragoza</apellido2>
-        <fechadenacimiento>31/12/2000</fechadenacimiento>
-        <edad>22</edad>
-        <email>Raul.SZ@gmail.com</email>
-        <telefono>711 722 733</telefono>
-        <dni>62335124H</dni>
-        <direccion>
-            <calleynumero>Av. San Sebastian, 13</calleynumero>
-            <direccionadicional>Piso 4ºC</direccionadicional>
-            <codigoPostal>03540</codigoPostal>
-            <ciudad>Alicante</ciudad>
-            <provincia>Alicante</provincia>
-            <pais>España</pais>
-        </direccion>
-    </perfil>
-</perfiles>
-<botones>
-    <boton>
-        <nombre>Editar foto perfil</nombre>
-    </boton>
-    <boton>
-        <nombre>Editar perfil</nombre>
-    </boton>
-    <boton>
-        <nombre>Modificar contraseña</nombre>
-    </boton>
-    <boton>
-        <nombre>Cambiar curriculum</nombre>
-    </boton>
-    <boton>
-        <nombre>Cerrar sesion</nombre>
-    </boton>
-</botones>
+    <perfiles>
+        <perfil>
+            <nombre>Antonio</nombre>
+            <apellido1>Martinez</apellido1>
+            <apellido2>Fernadez</apellido2>
+            <fechadenacimiento>20/04/1993</fechadenacimiento>
+            <edad>29</edad>
+            <email>Antonio.MF@gmail.com</email>
+            <telefono>687 324 123</telefono>
+            <dni>34542343T</dni>
+            <direccion>
+                <calleynumero>Av. Alfonso el sabio, 20</calleynumero>
+                <direccionadicional>Piso 5ºA</direccionadicional>
+                <codigoPostal>03004</codigoPostal>
+                <ciudad>Alicante</ciudad>
+                <provincia>Alicante</provincia>
+                <pais>España</pais>
+            </direccion>
+        </perfil>
+        <perfil>
+            <nombre>Pedro</nombre>
+            <apellido1>Franco</apellido1>
+            <apellido2>Chulo</apellido2>
+            <fechadenacimiento>21/11/1975</fechadenacimiento>
+            <edad>47</edad>
+            <email>Pedro.FC@gmail.com</email>
+            <telefono>743 234 123</telefono>
+            <dni>31231233Q</dni>
+            <direccion>
+                <calleynumero>Calle Teulada, 14</calleynumero>
+                <direccionadicional>Piso 1ºC</direccionadicional>
+                <codigoPostal>03005</codigoPostal>
+                <ciudad>Alicante</ciudad>
+                <provincia>Alicante</provincia>
+                <pais>España</pais>
+            </direccion>
+        </perfil>
+        <perfil>
+            <nombre>Maria</nombre>
+            <apellido1>Magdalena</apellido1>
+            <apellido2>Rodriguez</apellido2>
+            <fechadenacimiento>01/01/1998</fechadenacimiento>
+            <edad>25</edad>
+            <email>Maria.MR@gmail.com</email>
+            <telefono>631 324 926</telefono>
+            <dni>12335464N</dni>
+            <direccion>
+                <calleynumero>Calle Montesinos, 15</calleynumero>
+                <direccionadicional>Piso 2ºA</direccionadicional>
+                <codigoPostal>03015</codigoPostal>
+                <ciudad>Alicante</ciudad>
+                <provincia>Alicante</provincia>
+                <pais>España</pais>
+            </direccion>
+        </perfil>
+        <perfil>
+            <nombre>Sofia</nombre>
+            <apellido1>Reyes</apellido1>
+            <apellido2>Esteban</apellido2>
+            <fechadenacimiento>05/07/1991</fechadenacimiento>
+            <edad>31</edad>
+            <email>Sofia.RE@gmail.com</email>
+            <telefono>731 524 922</telefono>
+            <dni>54645467C</dni>
+            <direccion>
+                <calleynumero>Av. Novelda, 67</calleynumero>
+                <direccionadicional>Piso 3ºB</direccionadicional>
+                <codigoPostal>03009</codigoPostal>
+                <ciudad>Alicante</ciudad>
+                <provincia>Alicante</provincia>
+                <pais>España</pais>
+            </direccion>
+        </perfil>
+        <perfil>
+            <nombre>Raul</nombre>
+            <apellido1>Soriano</apellido1>
+            <apellido2>Zaragoza</apellido2>
+            <fechadenacimiento>31/12/2000</fechadenacimiento>
+            <edad>22</edad>
+            <email>Raul.SZ@gmail.com</email>
+            <telefono>711 722 733</telefono>
+            <dni>62335124H</dni>
+            <direccion>
+                <calleynumero>Av. San Sebastian, 13</calleynumero>
+                <direccionadicional>Piso 4ºC</direccionadicional>
+                <codigoPostal>03540</codigoPostal>
+                <ciudad>Alicante</ciudad>
+                <provincia>Alicante</provincia>
+                <pais>España</pais>
+            </direccion>
+        </perfil>
+    </perfiles>
+    <botones>
+        <boton>
+            <nombre>Editar foto perfil</nombre>
+        </boton>
+        <boton>
+            <nombre>Editar perfil</nombre>
+        </boton>
+        <boton>
+            <nombre>Modificar contraseña</nombre>
+        </boton>
+        <boton>
+            <nombre>Cambiar curriculum</nombre>
+        </boton>
+        <boton>
+            <nombre>Cerrar sesion</nombre>
+        </boton>
+    </botones>
 </profile>  
